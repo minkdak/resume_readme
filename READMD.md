@@ -7,6 +7,7 @@
 ---
 ## 경력
 ### **(주)NTREX**  2018.02.08 ~ 현재
+---
   - #### 디바이스마트(전자부품 쇼핑몰) 리뉴얼 
   
  ##### 개발기간 
@@ -30,7 +31,7 @@
 - Front: Javascript, HTML5, CSS, Jquery
 - DB: MySQL, Sphinx Search
 
-
+---
 
 - #### 사내 재고관리 장부 웹 앱
  ##### 개발기간 
@@ -49,7 +50,7 @@
  - DB: MySQL, Sphinx Search
  - 형상관리: Git
 
-
+***
 ### **(주)돔팸**  2018.11 ~ 2018.01 (아르바이트)
   - #### CJ 헬로비전 ALASKA 리뉴얼 Fontend 유지,보수 담당
    ##### 프로젝트 소개
@@ -58,11 +59,11 @@
    ##### 스택
 - Front: Javascript, backbone js, HTML5, CSS, Ajax, Jquery, Handlebars
 - 형상관리: svn
-
+---
   - #### SKT Smart Air Manager 공기청정기 및 공기 센서 앱 Fontend 개발 담당
   ##### 프로젝트 소개
- - SKT Smart Air Manager 공기청정기 및 공기 센서 앱으로 자녀의 학교 등 공기 상태를 확인 할 수 있음
+  - SKT Smart Air Manager 공기청정기 및 공기 센서 앱으로 자녀의 학교 등 공기 상태를 확인 할 수 있음
 
- ##### 스택
- - Front: Javascript, backbone js, HTML5, CSS, Ajax, Jquery, Handlebars
- - 형상관리: svn
+  ##### 스택
+  - Front: Javascript, backbone js, HTML5, CSS, Ajax, Jquery, Handlebars
+  - 형상관리: svn
