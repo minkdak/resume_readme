@@ -16,7 +16,7 @@
     - ##### 프로젝트 소개
       - 800만개 이상의 전자부품 데이터를 보유한 회사의 메인 E-Commerce 서비스의 리뉴얼 프로젝트에 투입
       - 오픈까지 기능 개발 및 유지보수 역할을 담당했고 오픈 이래로 지속적으로 유지/보수 작업을 수행
-    - ##### 주요  기능
+    - ##### 담당 주요 기능
       - Octoparts API 사용하여 반도체 상품 업데이트 자동화 R&D
       - Oauth 인증을 통한 북미 전자부품 기업 Digikey의 API를 이용하여 주문,업데이트,관리 등 기능 구현
       - 관리자 설문조사 이벤트 등록 자동화
@@ -35,7 +35,7 @@
       - 2019.12 ~ 현재
     - ##### 프로젝트 소개
       - 2개의 E-Commerce 서비스와 사내 ERP 프로그램 간의 재고를 획일적으로 관리하는 웹 앱 프로젝트
-    - ##### 기능
+    - ##### 담당
       - Python & Flask 기반 프로토타입 작업, 화면 UI 정의서 프로세스 정의서, 테이블 정의서 작성
       - RESTful API 기반 기능 구현 진행: 회원관리, 로그인 등
     - ##### 스택
@@ -43,6 +43,7 @@
       - Front: Javascript, HTML5, CSS, Jquery, Bootstrap, Handlebars
       - DB: MySQL, Sphinx Search
       - 형상관리: Git    
+      - OS: CentOS
       
          
 ***         
@@ -61,3 +62,29 @@
     - ##### 스택
       - Front: Javascript, backbone js, HTML5, CSS, Ajax, Jquery, Handlebars
       - 형상관리: svn
+***
+
+## 교육
+- ### JAVA 기반 웹프론트 엔드 전문가 양성과정
+  - #### 기관 : JAVA 기반 웹프론트 엔드 전문가 양성과정
+  - #### 프로젝트
+    - Travel Studio  2017.06 ~ 2017.08
+    - 소개
+      - 여행기 블로그
+      - 사진의 메타데이터를 기반으로 사진 자동 정렬하여 여행기 작성 플랫폼 제공
+      - ajax 통신 기반
+    - 역할
+      - 서비스 기획 및 UI/UX 기획
+      - DB모델링 및 데이터베이스 구축
+      - Java 기반 Back-end 개발
+      - Front-end 개발
+    - 담당 기능
+      - 로그인/ 회원가입
+      - 메인화면 UI/UX
+      - 마이페이지 : 개인정보 수정, 작성 게시글 목록, 친구초대
+      - 게시글 작성 : 사진 업로드 및 자동 정렬/사진 내용 작성, 삭제, 삽입
+    - ##### 스택
+      - Sever: Java, Spring
+      - Front: Javascript, HTML5, CSS, Jquery, Bootstrap, Handlebars 등
+      - DB: MySQL
+      - 형상관리: Git
